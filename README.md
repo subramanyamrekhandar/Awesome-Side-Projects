@@ -28,7 +28,7 @@ I faced these questions when worked on side projects over the last several years
 
 _Max Prilutskiy, engineer & manager & entrepreneur, [@Typeform](https://github.com/Typeform)_
 
-[![Follow Max Prilutskiy on Twitter](https://img.shields.io/twitter/follow/MaxPrilutskiy?style=social)](https://twitter.com/MaxPrilutskiy)
+
 ## ✍️ How to Contribute
 If you have found some great tool or app (😍), please, contribute to **Side Project Kit** collection. Simply submit a Pull Request with respect to our [Contribution Guidelines](CONTRIBUTING.md) 😎. We would love you to see your suggestions!
 
